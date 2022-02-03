@@ -3874,8 +3874,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background: url("https://cdn.pixabay.com/photo/2012/03/04/00/43/architecture-22039_960_720.jpg")
-		/* background-image: url("images/123.jpeg");*/
+		background-image: url("images/test-image.jpeg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
